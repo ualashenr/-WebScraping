@@ -25,13 +25,13 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/Yse4/yseCommecer
+git clone https://github.com/ualashenr/-WebScraping.git
 
 # entrar na pasta do projeto back end
 cd backend
 
 # executar o projeto
-./mvnw spring-boot:run
+java WebScraping
 ```
 # Autor
 Ualas Henrique Bezerra Filho
